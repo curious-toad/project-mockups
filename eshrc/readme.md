@@ -1,5 +1,5 @@
 # Project visuals for ESHRC Website
 
-[Homepage](/eshrc-player-homepage.html)
+[Homepage](https://curious-toad.github.io/project-mockups/eshrc/eshrc-player-homepage.html)
 
-[Subpage](eshrc-player-subpage.html)
+[Subpage](https://curious-toad.github.io/project-mockups/eshrc/eshrc-player-subpage.html)
