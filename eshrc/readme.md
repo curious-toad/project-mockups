@@ -1,5 +1,5 @@
-#Project visuals for ESHRC Website
+# Project visuals for ESHRC Website
 
-Homepage
+[Homepage](/eshrc-player-homepage.html)
 
-Subpage
+[Subpage](eshrc-player-subpage.html)
